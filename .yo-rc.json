@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "ebrahimi",
+      "authorName": "Alireza Ebrahimi",
+      "authorEmail": "alireza.ebrahimi68@gmail.com",
+      "authorUrl": "alirezaebrahimi.net"
+    }
+  }
+}
